@@ -24,6 +24,9 @@ yarn-error.log*
 Thumbs.db
 desktop.ini
 
+# ---- 工具本地数据（只属于本机，不随仓库分发）----
+.workbuddy/
+
 # ---- 运行产物与数据 ----
 build/
 dist/
