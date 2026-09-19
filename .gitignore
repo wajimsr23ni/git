@@ -39,3 +39,4 @@ dist/
 *.pem
 *.key
 secrets.json
+node_modules/
